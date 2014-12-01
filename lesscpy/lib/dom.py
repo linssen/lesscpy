@@ -146,6 +146,7 @@ svg = [
     'circle',
     'desc',
     'ellipse',
+    'g',
     'glyphRef',
     'line',
     'path',
